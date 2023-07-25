@@ -169,6 +169,7 @@ Test set: Average loss: 0.0194, Accuracy: 9948/10000 (99.48%)
 # Output plots of model 2
 
 <img width="1246" alt="Screenshot 2023-07-24 at 3 18 32 AM" src="https://github.com/katipallyvig8899/ERA_7/assets/45558037/d1422863-c5e3-4667-b799-5537841e1c9e">
+
 # Result 
 -> Parameters: 7.7k
 -> Best Train Accuracy: 98.76
